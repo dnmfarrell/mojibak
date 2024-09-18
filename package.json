@@ -1,0 +1,16 @@
+{
+  "name": "mojibak",
+  "version": "1.0.0",
+  "description": "Recovers mojibaked text",
+  "main": "mojibak.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mojibake",
+    "ftfy",
+    "utf8"
+  ],
+  "author": "David Farrell",
+  "license": "MIT"
+}
