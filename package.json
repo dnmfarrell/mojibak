@@ -1,8 +1,13 @@
 {
   "name": "mojibak",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Recovers mojibaked text",
   "main": "mojibak.js",
+  "homepage": "https://github.com/dnmfarrell/mojibak",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnmfarrell/mojibak.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
