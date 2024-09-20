@@ -1,6 +1,6 @@
 {
   "name": "mojibak",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Recovers mojibaked text",
   "main": "mojibak.js",
   "homepage": "https://github.com/dnmfarrell/mojibak",
